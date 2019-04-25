@@ -1,2 +1,2 @@
 # first
-just started to learning
+just started learning
